@@ -1,0 +1,12 @@
+/Users/alfred/Desktop/IT_Academy/CSHARP/NomCiutats/bin/Debug/netcoreapp3.1/NomCiutats.deps.json
+/Users/alfred/Desktop/IT_Academy/CSHARP/NomCiutats/bin/Debug/netcoreapp3.1/NomCiutats.runtimeconfig.json
+/Users/alfred/Desktop/IT_Academy/CSHARP/NomCiutats/bin/Debug/netcoreapp3.1/NomCiutats.runtimeconfig.dev.json
+/Users/alfred/Desktop/IT_Academy/CSHARP/NomCiutats/bin/Debug/netcoreapp3.1/NomCiutats.dll
+/Users/alfred/Desktop/IT_Academy/CSHARP/NomCiutats/bin/Debug/netcoreapp3.1/NomCiutats.pdb
+/Users/alfred/Desktop/IT_Academy/CSHARP/NomCiutats/obj/Debug/netcoreapp3.1/NomCiutats.csprojAssemblyReference.cache
+/Users/alfred/Desktop/IT_Academy/CSHARP/NomCiutats/obj/Debug/netcoreapp3.1/NomCiutats.AssemblyInfoInputs.cache
+/Users/alfred/Desktop/IT_Academy/CSHARP/NomCiutats/obj/Debug/netcoreapp3.1/NomCiutats.AssemblyInfo.cs
+/Users/alfred/Desktop/IT_Academy/CSHARP/NomCiutats/obj/Debug/netcoreapp3.1/NomCiutats.csproj.CoreCompileInputs.cache
+/Users/alfred/Desktop/IT_Academy/CSHARP/NomCiutats/obj/Debug/netcoreapp3.1/NomCiutats.dll
+/Users/alfred/Desktop/IT_Academy/CSHARP/NomCiutats/obj/Debug/netcoreapp3.1/NomCiutats.pdb
+/Users/alfred/Desktop/IT_Academy/CSHARP/NomCiutats/obj/Debug/netcoreapp3.1/NomCiutats.genruntimeconfig.cache
